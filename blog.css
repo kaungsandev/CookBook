@@ -104,10 +104,11 @@ h1, h2, h3, h4, h5, h6 {
 .blog-post-title {
   margin-bottom: .25rem;
   font-size: 2.5rem;
+  color: black;
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
-  color: #999;
+  color: black';
 }
 
 /*
@@ -128,9 +129,39 @@ h1, h2, h3, h4, h5, h6 {
 /*First Slide*/
 
 .main_picture{
-  background-image: url('image/receipe.jpg');
+  background-image: url('image/Italian/Receipechicken.jpg');
   height: 500px;
 }
+.indian_picture{
+  background-image: url('image/Countries/India.jpg');
+  height: 500px;
+}
+.japan_picture{
+  background-image: url('image/Countries/Japan.jpg');
+  height: 500px;
+}
+.italian_picture{
+  background-image: url('image/Countries/Italy.jpeg');
+  height: 500px;
+}
+.korea_picture{
+  background-image: url('image/Countries/Korea.jpg');
+  height: 500px;
+}
+.china_picture{
+  background-image: url('image/Countries/China.jpg');
+  height: 500px;  
+}
+.myanmar_picture{
+  background-image: url('image/Countries/Myanmar.jpg');
+  height: 500px;
+}
+.thai_picture{
+  background-image: url('image/Countries/Thailand.jpg');
+  height: 500px;
+}
+.
+
 .bd-placeholder-img{
   background-image: url('image/receipe.jpg');
 }
